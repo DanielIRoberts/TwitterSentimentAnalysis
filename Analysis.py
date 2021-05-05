@@ -2,7 +2,7 @@
 # Daoqun Yang
 
 # CS 4371 Final Project
-# This program is used to analize the data collected by
+# This program is used to analyze the data collected by
 # Spark.py and Stream.py.
 
 from pyspark.sql import SparkSession
